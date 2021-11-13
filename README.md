@@ -1,11 +1,9 @@
 
 # Hey there ✌🏼 - I'm Felipe Araujo <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"></h2>
 
-#### Java Developer
+#### Hi, i'm back-end Java Developer from Brazil, 31 years old.
+### Majoring in Information Systems. I'm passionate about technology and the power it has to change the world.
 
-#### I’m from São Paulo
-
-#### I'm 31 years old
 
 <div>
 
