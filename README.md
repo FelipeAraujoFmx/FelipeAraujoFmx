@@ -3,6 +3,8 @@
 
 #### Hi, i'm back-end Java Developer from Brazil, 31 years old.
 #### Majoring in Information Systems. I'm passionate about technology and the power it has to change the world.
+#### Currently working at [Epsoft/FlashSafe](https://flashsafe.com.br/).
+
 
 
 <div>
