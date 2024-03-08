@@ -3,7 +3,7 @@
 # Hey there ✌🏼 - I'm Felipe Araujo <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"></h2>
 
 #### Hi, i'm back-end Java Developer from Brazil, 33 years old.
-#### Majoring in Information Systems. I'm passionate about technology and the power it has to change the world.
+#### Bachelor of Information Systems. I'm passionate about technology and the power it has to change the world.
 #### Currently working at [Epsoft/FlashSafe](https://flashsafe.com.br/).
 
 
