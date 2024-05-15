@@ -27,6 +27,11 @@
 <img  align="center"  alt="Felipe-CSS3"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 <img  align="center"  alt="Felipe-JS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img  align="center"  alt="Felipe-JAVA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img  align="center"  alt="Felipe-MAVEN"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+<img  align="center"  alt="Felipe-GRADLE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
+<img  align="center"  alt="Felipe-HIBERNATE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
+<img  align="center"  alt="Felipe-RABBITMQ"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+<img  align="center"  alt="Felipe-ECLIPSE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 <img  align="center"  alt="Felipe-SPRING"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img  align="center"  alt="Felipe-SWAGGER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
 <img  align="center"  alt="Felipe-MYSQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
@@ -35,7 +40,8 @@
 <img  align="center"  alt="Felipe-LINUX"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img  align="center"  alt="Felipe-DEBIAN"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 <img  align="center"  alt="Felipe-DOCKER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img  align="center"  alt="Felipe-DOCKER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+<img  align="center"  alt="Felipe-KUBERNETES"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+<img  align="center"  alt="Felipe-JIRA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 
 
 </div>
