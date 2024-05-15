@@ -39,18 +39,13 @@
 
 ##
 
-<div>
-
-
-
-
-
-
-<a href="https://github.com/FelipeAraujoFmx">
-        <img align="center"  alt="Felipe-HEROKU"  height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/teteusAraujo" style="max-width:100%;">
+<div style="display: flex;">
+    <a href="https://github.com/FelipeAraujoFmx">
+        <img align="center" alt="Felipe-HEROKU" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" data-canonical-src="https://img.shields.io/badge/github-%23100000.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;link=mailto:https://github.com/teteusAraujo" style="max-width:100%;">
     </a>
 
-<a  href = "mailto:felipecma.araujo@gmail.com"><img align="center"  alt="Felipe-gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank"></a>
-
-
+    <a href="mailto:felipecma.araujo@gmail.com">
+        <img align="center" alt="Felipe-gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+    </a>
 </div>
+
