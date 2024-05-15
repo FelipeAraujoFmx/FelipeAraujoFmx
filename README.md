@@ -29,6 +29,7 @@
 <img  align="center"  alt="Felipe-JAVA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img  align="center"  alt="Felipe-MAVEN"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 <img  align="center"  alt="Felipe-GRADLE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
+<img  align="center"  alt="Felipe-TOMCAT"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
 <img  align="center"  alt="Felipe-HIBERNATE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
 <img  align="center"  alt="Felipe-RABBITMQ"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 <img  align="center"  alt="Felipe-ECLIPSE"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
@@ -42,6 +43,8 @@
 <img  align="center"  alt="Felipe-DOCKER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img  align="center"  alt="Felipe-KUBERNETES"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
 <img  align="center"  alt="Felipe-JIRA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+<img  align="center"  alt="Felipe-GITLAB"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+<img  align="center"  alt="Felipe-ARDUINO"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 
 
 </div>
