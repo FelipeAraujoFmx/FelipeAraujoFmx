@@ -32,6 +32,8 @@
 <img  align="center"  alt="Felipe-MYSQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img  align="center"  alt="Felipe-POSTGRESQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img  align="center"  alt="Felipe-HEROKU"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+<img  align="center"  alt="Felipe-DEBIAN"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+<img  align="center"  alt="Felipe-DOCKER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
 
 </div>
