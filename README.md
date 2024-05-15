@@ -28,7 +28,7 @@
 <img  align="center"  alt="Felipe-JS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img  align="center"  alt="Felipe-JAVA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img  align="center"  alt="Felipe-SPRING"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img  align="center"  alt="Felipe-SWAGGER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img  align="center"  alt="Felipe-SWAGGER"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
 <img  align="center"  alt="Felipe-MYSQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img  align="center"  alt="Felipe-POSTGRESQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img  align="center"  alt="Felipe-HEROKU"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
