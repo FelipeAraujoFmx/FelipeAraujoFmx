@@ -6,17 +6,6 @@
 #### Bachelor of Information Systems. I'm passionate about technology and the power it has to change the world.
 
 
-
-<div>
-
-<a  href="https://github.com/FelipeAraujoFmx">
-
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeAraujoFmx&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoFmx&layout=compact&langs_count=7&theme=aura&show_icons=true"/>
-
-
-</div>
-
 ## Skills :nerd_face:
 
 <p  align="center">
@@ -58,3 +47,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipearaujofmx)
 
 </div>  
+
+<div>
+
+<a  href="https://github.com/FelipeAraujoFmx">
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeAraujoFmx&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujoFmx&layout=compact&langs_count=7&theme=aura&show_icons=true"/>
+
+
+</div>
