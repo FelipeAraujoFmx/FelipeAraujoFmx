@@ -34,8 +34,9 @@
 <img  align="center"  alt="Felipe-JIRA"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 <img  align="center"  alt="Felipe-GITLAB"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img  align="center"  alt="Felipe-ARDUINO"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img  align="center"  alt="Felipe-AWS"  height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
-
+          
 </div>
 
 <div>
